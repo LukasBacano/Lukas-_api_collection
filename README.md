@@ -2,8 +2,7 @@
 A nice collection of fun API's
 
 
-#Stolen bike api - Api to get data about biketheft
-https://bikeindex.org/documentation/api_v3
+
 
 #AbuseipDB - provides info on IP's and tells you if theyre malicious
 https://www.abuseipdb.com/
@@ -23,6 +22,13 @@ https://github.com/eurostat/restatapi
 #Open skies 
 https://opensky-network.org/api/states/all
 
-#missing
-VesselFinder * find gratis version
+#missing test
+
+#VesselFinder * find gratis version
+https://www.aishub.net/api
+
+#Stolen bike api - Api to get data about biketheft
+https://bikeindex.org/documentation/api_v3
+
 reddit api
+
